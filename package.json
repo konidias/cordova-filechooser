@@ -1,0 +1,25 @@
+{
+  "name": "cordova-filechooser",
+  "version": "0.0.0",
+  "description": "Cordova Android File Chooser",
+  "cordova": {
+    "id": "cordova-filechooser",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konidias/cordova-filechooser.git"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-android"
+  ],
+  "author": "Don Coleman <don.coleman@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/konidias/cordova-filechooser/issues"
+  },
+  "homepage": "https://github.com/konidias/cordova-filechooser#readme"
+}
